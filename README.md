@@ -1,0 +1,2 @@
+# flutter_local_notification_docs-awesome_notification-
+Document file about awesome_notification library
